@@ -1,4 +1,4 @@
 Hello
 
 This is a test blog.
-[chicken-low-quality, 181, 151.5]
+[https://raw.githubusercontent.com/Chicken-Engine/Engine-Data/refs/heads/main/blogs/i%20am%20blog/images/chicken-low-quality.gif, 181, 151.5]
